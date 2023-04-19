@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\bin\Debug\PGrafica.exe.config
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\bin\Debug\PGrafica.exe
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\bin\Debug\PGrafica.pdb
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\bin\Debug\OpenTK.dll
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\bin\Debug\OpenTK.pdb
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\bin\Debug\OpenTK.xml
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\obj\Debug\PGrafica.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\obj\Debug\PGrafica.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\obj\Debug\PGrafica.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\obj\Debug\PGrafica.csproj.CopyComplete
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\obj\Debug\PGrafica.exe
+C:\Users\Hp\Desktop\ListaCircular\PGrafica\PGrafica\obj\Debug\PGrafica.pdb
